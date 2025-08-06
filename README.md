@@ -29,13 +29,13 @@ mkdocs serve
 ```
 Acesse no navegador: http://127.0.0.1:8000
 
-1. Gerar site estático:
+2. Gerar site estático:
 
 ```bash
 mkdocs build
 ```
 
-1. Publicar no GitHub Pages:
+3. Publicar no GitHub Pages:
 
 ```bash
 mkdocs gh-deploy
