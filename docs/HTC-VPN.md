@@ -13,7 +13,7 @@ Como conseguir acesso?
     .zip pode ser por meio do terminal ou pela GUI mesmo e descompacte
     os arquivos.
 
-    ![](./Pictures/100000010000037100000225BBADF52B.png)
+    ![](assets/Pictures/100000010000037100000225BBADF52B.png)
     
     **Após descompactar, deverá ter algo parecido com isso**.
 
@@ -24,11 +24,11 @@ Como conseguir acesso?
 
 -  Vá ao menu de opções do teu desktop/notebook.
 
-![](Pictures/1000000100000195000001624439CDFE.png)
+![](assets/Pictures/1000000100000195000001624439CDFE.png)
 
  ***Clique na seta em "Wired".***
 **    **
-![](Pictures/100000010000017F000000BBBC712D66.png) 
+![](assets/Pictures/100000010000017F000000BBBC712D66.png) 
 
 
 ***Clique em "Wired Settings".***
@@ -37,10 +37,10 @@ Como conseguir acesso?
 **    **
 -   Neste menu, em VPN tu irá clicar no ícone "+". (Obs: Caso esteja
     pelo "Wi-Fi", clique na opção "All Networks" e vá até "Network").
-![](Pictures/10000001000002240000011E5804904D.png)
+![](assets/Pictures/10000001000002240000011E5804904D.png)
 **    **
 
-![](Pictures/10000001000003A9000002476AF30824.png)
+![](assets/Pictures/10000001000003A9000002476AF30824.png)
 
 
 ***Clique em "Import from file...".***
@@ -50,7 +50,7 @@ Como conseguir acesso?
 
 -   Caso tenha sucesso, abrirá o menu de configuração da "VPN".
 
-![](Pictures/10000001000002F50000021E05727FED.png)
+![](assets/Pictures/10000001000002F50000021E05727FED.png)
 
 
 ***Na pasta desejada, selecione o arquivo ".ovpn", depois clique em
@@ -60,15 +60,15 @@ Como conseguir acesso?
 -   Em "Identity", irá de alterar apenas a opção "User private key".
 
 
-![](Pictures/10000001000002F50000021EFE9C7447.png)
+![](assets/Pictures/10000001000002F50000021EFE9C7447.png)
 ** **
 - Em "User key password", deixar a última opção marcada. 
-![](Pictures/idpsw.png)
+![](assets/Pictures/idpsw.png)
 ***Marcar "The password is not required"***
 ** **
 - Após isso, vá até "IPv4".
 
-![](Pictures/100000010000019800000110C3073150.png)
+![](assets/Pictures/100000010000019800000110C3073150.png)
 
 
 ***Marque a opção "Use this connection only..."***
@@ -83,7 +83,7 @@ interface do firewall. Siga estes passos:
 
 -   Acesse ****fw.intranet.leds.dev.br****. Se tudo deu certo, você estará na interface. Se ocorreu algum erro de rede, muito provavelmente sua VPN foi configurada de forma errada. Solicite ajuda para o SysAdmin.
   
-![](Pictures/10000001000001A600000148B3971CA4.png)
+![](assets/Pictures/10000001000001A600000148B3971CA4.png)
 
 ***Landing page do firewall.***
 
@@ -93,10 +93,10 @@ interface do firewall. Siga estes passos:
 -   **Troque sua senha e salve.**
 
 
-![](Pictures/10000001000002E00000017010F79EF3.png)
+![](assets/Pictures/10000001000002E00000017010F79EF3.png)
 ** **
 
-![](Pictures/guia91-41a8c550a8fbe669f1bf6ba9ed9a0c6f.png)
+![](assets/Pictures/guia91-41a8c550a8fbe669f1bf6ba9ed9a0c6f.png)
 
 **_Insira seus dados e clique em "Save"._**  
                                               
