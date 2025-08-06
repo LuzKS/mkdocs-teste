@@ -13,7 +13,7 @@ Como conseguir acesso?
     .zip pode ser por meio do terminal ou pela GUI mesmo e descompacte
     os arquivos.
 
-    ![](Pictures/100000010000037100000225BBADF52B.png)
+![](Pictures/100000010000037100000225BBADF52B.png)
     
     **Após descompactar, deverá ter algo parecido com isso**.
 
