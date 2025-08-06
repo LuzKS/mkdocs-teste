@@ -18,7 +18,7 @@ cd mkdocs-teste
 2. Instale o MkDocs:
 
 ```bash
-pip install mkdocs
+pip install mkdocs-material
 ```
 ## Como Usar
 
